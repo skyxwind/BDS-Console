@@ -76,12 +76,7 @@ Your Folder/
 
 本專案採用 **GNU General Public License v3.0 (GPL-3.0)** 授權發布。
 
-- ✓ 您可以自由使用、修改和分發本軟體
-- ✓ 修改後的版本必須同樣以 GPL-3.0 授權發布
-- ✓ 必須保留原始的版權聲明和授權資訊
-- ✓ 不提供任何明示或暗示的擔保
-
-完整授權條款請參閱 [LICENSE](LICENSE) 檔案。
+完整授權條款請參閱 [LICENSE](LICENSE)。
 
 ### 第三方程式庫
 
