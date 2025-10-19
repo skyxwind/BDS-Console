@@ -2,7 +2,7 @@
 
 ## 📖 簡介
 
-BDS Console 是一個專為 Minecraft Bedrock Dedicated Server 設計的圖形化管理工具，提供直觀的操作介面，讓伺服器管理變得簡單輕鬆。無需複雜的命令列操作，透過友善的 GUI 即可完成所有伺服器管理任務。
+BDS Console 是一個專為 Minecraft Bedrock Dedicated Server 設計的繁體中文圖形化管理工具，提供直觀的操作介面，讓伺服器管理變得簡單輕鬆。無需複雜的命令列操作，透過友善的 GUI 即可完成所有伺服器管理任務。
 
 ### ✨ 為什麼選擇 BDS Console？
 
