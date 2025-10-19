@@ -96,7 +96,7 @@ Your Folder/
 ⚠️ **本專案與 Minecraft 官方的關係**
 
 - 本工具是獨立的第三方管理工具，不包含 Minecraft 或其任何衍生內容
-- Minecraft®、Minecraft Bedrock Edition™ 及相關商標屬於 Microsoft Corporation 和/或 Mojang Studios 所有
+- Minecraft®、Minecraft Bedrock Edition™ 及相關商標屬於 Microsoft Corporation 、 Mojang Studios 所有
 - 本工具不由 Microsoft、Mojang Studios 或 Minecraft 官方開發、背書或關聯
 - 使用者需遵守 [Minecraft 最終使用者授權合約 (EULA)](https://www.minecraft.net/eula) 和相關服務條款
   
