@@ -70,7 +70,38 @@ Your Folder/
 └── server_old/               # 舊 BDS 伺服器檔案(更新時產生)
 ```
 
-## 📝 授權
+## 📝 授權與致謝
 
-此專案採用 GNU General Public License v3.0 (GPL-3.0) 授權條款，詳細內容請參閱 [LICENSE](LICENSE) 檔案。
+### 授權條款
 
+本專案採用 **GNU General Public License v3.0 (GPL-3.0)** 授權發布。
+
+- ✓ 您可以自由使用、修改和分發本軟體
+- ✓ 修改後的版本必須同樣以 GPL-3.0 授權發布
+- ✓ 必須保留原始的版權聲明和授權資訊
+- ✓ 不提供任何明示或暗示的擔保
+
+完整授權條款請參閱 [LICENSE](LICENSE) 檔案。
+
+### 第三方程式庫
+
+本專案使用以下開源程式庫，感謝這些優秀的專案：
+
+| 程式庫 | 授權 | 用途 |
+|--------|------|------|
+| [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) | MIT | 現代化 GUI 框架 |
+| [Requests](https://github.com/psf/requests) | Apache-2.0 | HTTP 請求處理 |
+| [Schedule](https://github.com/dbader/schedule) | MIT | 任務排程功能 |
+| Python 標準庫 | PSF | 核心功能支援 |
+
+詳細的授權來源引用說明請參閱 [BDS_Console_授權來源引用說明.txt](BDS_Console_授權來源引用說明.txt)。
+
+### 重要聲明
+
+⚠️ **本專案與 Minecraft 官方的關係**
+
+- 本工具是獨立的第三方管理工具，不包含 Minecraft 或其任何衍生內容
+- Minecraft®、Minecraft Bedrock Edition™ 及相關商標屬於 Microsoft Corporation 和/或 Mojang Studios 所有
+- 本工具不由 Microsoft、Mojang Studios 或 Minecraft 官方開發、背書或關聯
+- 使用者需遵守 [Minecraft 最終使用者授權合約 (EULA)](https://www.minecraft.net/eula) 和相關服務條款
+  
