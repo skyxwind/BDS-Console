@@ -94,7 +94,7 @@ Your Folder/
 | [Schedule](https://github.com/dbader/schedule) | MIT | 任務排程功能 |
 | Python 標準庫 | PSF | 核心功能支援 |
 
-詳細的授權來源引用說明請參閱 [BDS_Console_授權來源引用說明.txt](BDS_Console_授權來源引用說明.txt)。
+詳細的授權來源引用說明請參閱 [授權來源引用](授權來源引用.md)。
 
 ### 重要聲明
 
