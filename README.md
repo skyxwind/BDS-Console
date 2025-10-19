@@ -1,5 +1,10 @@
 # BDS Console
 
+## ⚠️ 關於【 Windows 已保護您的電腦 】
+
+1. 由於此應用程式並未經過數位簽證認證，因此您的電腦可能會封鎖此應用程式的 exe 執行檔，您可以透過點擊【其他資訊】→【仍要執行】來開啟此應用程式
+2. 若您仍然不放心，可以透過 [Source Code](source_code/BDS_Console.py) 自行編譯，
+
 ## 📖 簡介
 
 BDS Console 是一個專為 Minecraft Bedrock Dedicated Server 設計的繁體中文圖形化管理工具，提供直觀的操作介面，讓伺服器管理變得簡單輕鬆。無需複雜的命令列操作，透過友善的 GUI 即可完成所有伺服器管理任務。
