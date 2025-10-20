@@ -76,7 +76,7 @@ BDS-Console-main/
 
 本專案採用 **GNU General Public License v3.0 (GPL-3.0)** 授權發布。
 
-完整授權條款請參閱 [LICENSE](LICENSE)。
+完整授權條款請參閱 [LICENSE](license/LICENSE)。
 
 ### 第三方程式庫
 
@@ -89,7 +89,7 @@ BDS-Console-main/
 | [Schedule](https://github.com/dbader/schedule) | MIT | 任務排程功能 |
 | Python 標準庫 | PSF | 核心功能支援 |
 
-詳細的授權來源引用說明請參閱 [授權來源引用](授權來源引用.md)。
+詳細的授權來源引用說明請參閱 [授權來源引用](license/授權來源引用.md)。
 
 ### 重要聲明
 
